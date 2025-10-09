@@ -3,8 +3,8 @@
  
   # <img src="https://media.giphy.com/media/Q86p0h48U5W596e3Qc/giphy.gif" width="30"> Hi, I'm Madhushan Sathsara! A Web Developer 👨‍💻
  
-  <p>
-    I am an HNDIT student who develops robust, user-friendly web applications. I specialize in React.js for modern front-ends and PHP/MySQL for reliable, data-driven back-ends. My work includes building comprehensive systems like the Alfa Lands Real Estate Management System , and I am proficient in languages like JavaScript, HTML5, and CSS.
+
+  ## I am an HNDIT student who develops robust, user-friendly web applications. I specialize in React.js for modern front-ends and PHP/MySQL for reliable, data-driven back-ends. My work includes building comprehensive systems like the Alfa Lands Real Estate Management System , and I am proficient in languages like JavaScript, HTML5, and CSS.
   </p>
  
   <p>
