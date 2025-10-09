@@ -21,28 +21,61 @@
 
 ---
 
-## ⚡ Tech Stack
+---
 
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | React, TailwindCSS, Inertia.js, JavaScript, HTML5, CSS3 |
-| **Backend** | Laravel 11, PHP 8, REST APIs |
-| **Database** | MySQL, SQLite |
-| **Tools** | Git, VS Code, Postman, Composer, NPM |
-| **Version Control** | Git & GitHub |
+## ⚡ Tech Universe
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-%23FBBF24.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-8892BF.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630.svg?style=for-the-badge&logo=composer&logoColor=white" />
+</p>
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 My Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🛒 [CRUD_Laravel](https://github.com/MadhushanSathsara/CRUD_Laravel) | Product management system with add, edit, delete, and list features | Laravel + React + Tailwind |
-| ✅ [TodoApp_Laravel](https://github.com/MadhushanSathsara/TodoApp_Laravel) | Simple Todo app with task tracking and Bootstrap design | Laravel + Blade + Bootstrap |
+<div align="center">
+
+| 🔗 Project | 💬 Description | 🧠 Tech Used |
+|-------------|----------------|---------------|
+| 🛍️ [**CRUD_Laravel**](https://github.com/MadhushanSathsara/CRUD_Laravel) | Product management system with add, edit, delete, and table display | Laravel ⚡ React ⚡ Tailwind |
+| ✅ [**TodoApp_Laravel**](https://github.com/MadhushanSathsara/TodoApp_Laravel) | Task manager with edit, mark-complete & delete features | Laravel ⚡ Blade ⚡ Bootstrap |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insight Zone
+
+<div align="center" style="background-color:#0d0d0d; padding:25px; border-radius:20px;">
+
+### 🌀 Language Breakdown
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushanSathsara&layout=pie&theme=vision-friendly-dark&title_color=FACC15&text_color=FACC15&bg_color=0d0d0d&border_color=0d0d0d" />
+
+### 🌙 GitHub Activity
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=MadhushanSathsara&show_icons=true&theme=vision-friendly-dark&title_color=FACC15&icon_color=FACC15&text_color=ffffff&bg_color=0d0d0d&hide_border=true" />
+
+### ⚡ Contribution Streak
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushanSathsara&theme=highcontrast&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&background=0d0d0d&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Repository Overview
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MadhushanSathsara&limit=5&theme=dark&combine_all_yearly_contributions=true&show_owner=false&title_color=FACC15&text_color=ffffff&bg_color=0d0d0d&hide_border=true" width="90%" />
+</p>
+
+---
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MadhushanSathsara&show_icons=true&theme=radical" />
