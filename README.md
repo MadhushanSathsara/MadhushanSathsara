@@ -16,7 +16,7 @@
 
 💻 Passionate about **building modern web apps** using **Laravel + React + Tailwind**  
 🎯 Focused on **clean UI, performance & reusable components**  
-📦 Currently working on a **Product Management CRUD Dashboard**  
+📦 Currently developing **multiple real-world dashboard projects**  
 📚 Exploring **Inertia.js**, **TypeScript**, and **Next.js**
 
 ---
@@ -42,10 +42,12 @@
 
 | 🔗 Project | 💬 Description | 🧠 Tech Used |
 |-------------|----------------|---------------|
-| 🛍️ [**CRUD_Laravel**](https://github.com/MadhushanSathsara/CRUD_Laravel) | Product management system (Add/Edit/Delete/List) | Laravel ⚡ React ⚡ Tailwind |
-| ✅ [**TodoApp_Laravel**](https://github.com/MadhushanSathsara/TodoApp_Laravel) | Task manager with edit, mark-complete & delete features | Laravel ⚡ Blade ⚡ Bootstrap |
-| 📘 [**BlogApp**](https://github.com/MadhushanSathsara/BlogApp) | Minimal blog CMS using Laravel | Laravel ⚡ Tailwind ⚡ SQLite |
-| 📊 [**AnalyticsDashboard**](https://github.com/MadhushanSathsara/AnalyticsDashboard) | Custom dashboard with dynamic charts | React ⚡ Chart.js ⚡ API |
+| 🛍️ [**CRUD_Laravel**](https://github.com/MadhushanSathsara/CRUD_Laravel) | Product management dashboard (Add/Edit/Delete/List) | Laravel ⚡ React ⚡ Tailwind |
+| ✅ [**TodoApp_Laravel**](https://github.com/MadhushanSathsara/TodoApp_Laravel) | Task manager with mark-complete & delete features | Laravel ⚡ Blade ⚡ Bootstrap |
+| 🌐 [**Alfa_Lands_Host**](https://github.com/MadhushanSathsara/alfa_lands_host) | Real estate property web portal | Laravel ⚡ Tailwind ⚡ MySQL |
+| 💼 [**Portfolio_Template**](https://github.com/MadhushanSathsara/portfolio_template) | Responsive personal portfolio site | React ⚡ Tailwind ⚡ Vite |
+| 📘 [**BlogApp**](https://github.com/MadhushanSathsara/BlogApp) | Minimal blog CMS using Laravel | Laravel ⚡ SQLite ⚡ Tailwind |
+
 
 </div>
 
@@ -53,18 +55,16 @@
 
 ## 📊 GitHub Insights
 
-<div align="center">
-
 <table align="center" style="border:none; background:transparent;">
 <tr>
-<td width="50%">
-  
-### 🧩 Activity Stats  
+<td width="50%" align="center">
+
+### ⚙️ Activity Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=MadhushanSathsara&show_icons=true&theme=tokyonight&title_color=FFD700&text_color=ffffff&icon_color=FFD700&bg_color=00000000&hide_border=true" width="100%" />
 
 </td>
-<td width="50%">
-  
+<td width="50%" align="center">
+
 ### 🌀 Languages Used  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushanSathsara&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff&bg_color=00000000&hide_border=true" width="100%" />
 
@@ -72,32 +72,13 @@
 </tr>
 </table>
 
-<table align="center" style="border:none; background:transparent;">
-<tr>
-<td width="50%">
-  
-### ⚡ Contribution Streak  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushanSathsara&theme=tokyonight-duo&background=00000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true" width="100%" />
-
-</td>
-<td width="50%">
-  
-### 🌈 Language Progress  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MadhushanSathsara&layout=compact&theme=tokyonight&bg_color=00000000&title_color=FFD700&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 🚀 Repository Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadhushanSathsara&theme=tokyonight&background=00000000&text_color=FFD700&hide_border=true" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MadhushanSathsara&theme=tokyonight&background=00000000&text_color=FFD700&hide_border=true" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadhushanSathsara&theme=tokyonight&background=00000000&text_color=FFD700&hide_border=true" width="42%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MadhushanSathsara&theme=tokyonight&background=00000000&text_color=FFD700&hide_border=true" width="42%"/>
 </p>
 
 ---
@@ -127,4 +108,4 @@
 
 ---
 
-⭐ *“Code. Learn. Repeat.”*
+⭐ *“Code. Learn. Repeat.”*  
