@@ -1,11 +1,11 @@
 <!-- 👋 Profile Header -->
-<h1 align="center"><h1 align="center">
-<h1 align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60" /> Hey there, I'm <span style="color:#FFD700;">Madhushan Sathsara</span>
-</h1>
 
- Hey there, I'm <span style="color:#FFD700;">Madhushan Sathsara</span></h1>
+<p align="center">
+  <img src="https://assets4.lottiefiles.com/packages/lf20_gm3rBUeb.json" alt="Businessman Flies Up with Rocket" width="150" height="150"/>
+</p>
+<h1 align="center">👋 Hey there, I'm <span style="color:#FFD700;">Madhushan Sathsara</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | Laravel + React Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
