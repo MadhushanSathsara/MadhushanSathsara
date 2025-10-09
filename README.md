@@ -1,5 +1,9 @@
 <!-- 👋 Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#FFD700;">Madhushan Sathsara</span></h1>
+<h1 align="center"><h1 align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFD700&width=500&lines=Hey+there,+I'm+Madhushan+Sathsara" />
+</h1>
+ Hey there, I'm <span style="color:#FFD700;">Madhushan Sathsara</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | Laravel + React Enthusiast</h3>
 
 <p align="center">
