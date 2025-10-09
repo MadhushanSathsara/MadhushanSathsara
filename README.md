@@ -16,7 +16,7 @@
 
 💻 Passionate about **building modern web apps** using **Laravel + React + Tailwind**  
 🎯 Focused on **clean UI, performance & reusable components**  
-📦 Currently developing **multiple real-world dashboard projects**  
+📦 Currently developing **multiple real-world projects**  
 📚 Exploring **Inertia.js**, **TypeScript**, and **Next.js**
 
 ---
