@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://assets8.lottiefiles.com/packages/lf20_2wz8t9.json" alt="Programming Animation" width="200"/>
-</p>
-<h1 align="center">
-  <img src="YOUR_SPARKLING_GIF_URL" alt="Animated PC Icon" width="40"/> 
-  I'm <span style="color:#FFD700;">Madhushan Sathsara</span>
-</h1>
-<h3 align="center">🚀 Full-Stack Developer | Laravel + React Enthusiast</h3>
 
 <h1 align="center">
   💻✨ I'm <span style="color:#FFD700;">Madhushan Sathsara</span>
