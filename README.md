@@ -1,7 +1,7 @@
 <!-- 👋 Profile Header -->
 <h1 align="center"><h1 align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFD700&width=500&lines=👨‍💻+Hey+there,+I'm+Madhushan+Sathsara" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60" /> Hey there, I'm <span style="color:#FFD700;">Madhushan Sathsara</span>
 </h1>
 
  Hey there, I'm <span style="color:#FFD700;">Madhushan Sathsara</span></h1>
