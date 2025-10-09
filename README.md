@@ -4,7 +4,7 @@
   # <img src="https://media.giphy.com/media/Q86p0h48U5W596e3Qc/giphy.gif" width="30"> Hi, I'm Madhushan Sathsara! A Web Developer 👨‍💻
  
   <p>
-    A driven HNDIT student specializing in **React.js** and **PHP/MySQL**. I'm passionate about building responsive, user-friendly web applications, including my **Alfa Lands Real Estate Management System**. I'm actively seeking a Web Development Internship to apply my skills.
+    A driven HNDIT student specializing in ##React.js## and ##PHP/MySQL##. I'm passionate about building responsive, user-friendly web applications, including my **Alfa Lands Real Estate Management System**. I'm actively seeking a Web Development Internship to apply my skills.
   </p>
  
   <p>
