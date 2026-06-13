@@ -48,7 +48,7 @@
 | 🛍️ [**CRUD_Laravel**](https://github.com/MadhushanSathsara/CRUD_Laravel) | Product management dashboard (Add/Edit/Delete/List) | Laravel ⚡ React ⚡ Tailwind |
 | ✅ [**TodoApp_Laravel**](https://github.com/MadhushanSathsara/TodoApp_Laravel) | Task manager with mark-complete & delete features | Laravel ⚡ Blade ⚡ Bootstrap |
 | 🌐 [**Alfa_Lands_Host**](https://github.com/MadhushanSathsara/alfa_lands_host) | Real estate property web portal | Laravel ⚡ Tailwind ⚡ MySQL |
-| 💼 [**Portfolio_**](https://github.com/MadhushanSathsara/my-portflio-hosted-project) | Responsive personal portfolio site | React ⚡Laraverl ⚡ Tailwind ⚡ Vite |
+| 💼 [**Portfolio_**](https://github.com/MadhushanSathsara/my-portflio-hosted-project) | Responsive personal portfolio site | React  ⚡Laraverl ⚡ Tailwind ⚡ Vite |
 | 📘 [**BlogApp**](https://github.com/MadhushanSathsara/BlogApp) | Minimal blog CMS using Laravel | Laravel ⚡ SQLite ⚡ Tailwind |
 
 
